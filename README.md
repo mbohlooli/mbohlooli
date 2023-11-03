@@ -6,9 +6,9 @@ let aboutMe = {
   email: "bohlool82@gmail.com",
   stack: {
     backend: {
-      languages: ["Python", "Javascript", "PHP", "SQL"],
-      frameworks: ["express", "django", "laravel"],
-      databases: ["MySQL", "MongoDB"]
+      languages: ["C#", "Python", "Javascript", "PHP", "SQL"],
+      frameworks: [".Net Core", "express", "django", "laravel"],
+      databases: ["Microsoft Sql Server", "MySQL", "MongoDB"]
     },
     frontend: {
       languages: ["typescript/javascript"],
