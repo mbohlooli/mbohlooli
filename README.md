@@ -19,7 +19,7 @@ let aboutMe = {
       database: "SQLite"
     }
   },
-  tools: ["Git"]
+  tools: ["Git", "Docker"]
 }
 ```
 
