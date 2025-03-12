@@ -3,23 +3,21 @@ let aboutMe = {
   name: "Mehrab",
   role: "Full Stack developer",
   location: "Iran/Tehran",
-  email: "bohlool82@gmail.com",
+  email: "mehrab.bohlooli@gmail.com",
   stack: {
     backend: {
-      languages: ["C#", "Python", "Javascript", "PHP", "SQL"],
-      frameworks: [".Net Core", "express", "django", "laravel"],
-      databases: ["Microsoft Sql Server", "MySQL", "MongoDB"]
+      languages: ["Java", "C#", "Python"],
+      frameworks: ["Spring boot", ".Net Core", "Django"],
     },
     frontend: {
-      languages: ["typescript/javascript"],
-      frameworks: ["Angular", "React"]
+      languages: ["Typescript"],
+      frameworks: ["Angular"]
     },
     android: {
-      languages: ["Java", "Kotlin"],
-      database: "SQLite"
+      languages: ["Java", "Kotlin"]
     }
   },
-  tools: ["Git", "Docker"]
+  tools: ["Kubernetes", "Docker", "Kafka"]
 }
 ```
 
